@@ -1,10 +1,10 @@
 # **Question_1**
 
 **Step 1**:Creates an "ecommerce" database and defines four tables: gold_member_users, users, sales, and product.<br/>
-**Step 2**:Inserts data into the tables with appropriate datatypes.
-**Step 3**:Lists all tables in the "ecommerce" database.
-**Step 4**:Counts the records in each table using a single query.
-**Step 5**:Calculates the total amount spent by each customer.
+**Step 2**:Inserts data into the tables with appropriate datatypes.<br />
+**Step 3**:Lists all tables in the "ecommerce" database.<br />
+**Step 4**:Counts the records in each table using a single query.<br />
+**Step 5**:Calculates the total amount spent by each customer.<br />
 **Step 6**:Lists distinct visit dates for each customer.
 **Step 7**:Finds the first product purchased by each customer.
 **Step 8**:Identifies the most purchased item by each customer.
