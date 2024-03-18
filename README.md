@@ -1,6 +1,6 @@
 # **Question_1**
 
-**Step 1**:Creates an "ecommerce" database and defines four tables: gold_member_users, users, sales, and product.
+**Step 1**:Creates an "ecommerce" database and defines four tables: gold_member_users, users, sales, and product.<br/>
 **Step 2**:Inserts data into the tables with appropriate datatypes.
 **Step 3**:Lists all tables in the "ecommerce" database.
 **Step 4**:Counts the records in each table using a single query.
